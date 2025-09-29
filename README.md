@@ -15,9 +15,8 @@
 4. [Examples](#examples)  
 5. [Useful Links](#useful-links)  
 6. [About](#about)  
-7. [Contributing](#contributing)  
-8. [License](#license)  
-9. [Tags](#tags)
+7. [License](#license)  
+8. [Tags](#tags)
 
 ---
 
@@ -82,28 +81,6 @@ Problem-solving without formal teachers
 Collaborative coding environments
 Strong emphasis on self-learning and creativity
 Preparing students for real-world software engineering challenges
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!
-If you’d like to improve or expand this repository:
-
-1. Fork the repository
-2. Create a new branch:
-```bash
-git checkout -b feature-name
-```
-3. Make your changes and commit:
-```bash
-git commit -m "Add feature description"
-```
-4. Push to your branch:
-```bash
-git push origin feature-name
-```
-5. Open a Pull Request
 
 ---
 
