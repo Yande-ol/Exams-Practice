@@ -71,6 +71,51 @@ gcc -Wall -Wextra -Werror ./program_name
 ```
 --- 
 
+## 🧑‍💻 How To Work During The Exam 
+
+### Available Commands
+
+`status`: Shows the remaining time and current status of the exam.
+
+`grademe`: Evaluates the exercise you submitted.
+
+`finish`: Ends the examshell and completes your exam.
+
+### Steps to Follow
+
+1. Open a new terminal or editor (ex., VSCode, Vim).
+
+2. Access the directory containing the exam subjects.
+
+    The subjects are located in the  `subject` directory.
+   
+3. Create a new folder in the `Rendu` directory with the name of the project.
+
+```bash
+mkdir Rendu/<project_name>
+```
+```
+cd Rendu/<project_name>
+```
+4. Write your solution inside this folder.
+
+### Step 6️⃣: Submitting Your Work.
+
+1. Once you finish the project, navigate to the `Rendu` directory and run:
+
+```bash
+git add <project_name>
+```
+```
+git commit -m "Submit <project_name>"
+```
+```
+git push
+```
+2. Return to the examshell and type grademe to evaluate your project.
+
+---
+
 ## 🏫 About 42
 
 42 is an innovative, tuition-free programming school with a unique peer-to-peer learning methodology.
